@@ -1,0 +1,69 @@
+.jumbotron{
+    padding-top: 30px;
+    background-color: #e2edff;
+}
+
+#Skill {
+    background-color: #e2edff;
+}
+
+#project{
+    background-color: ffffff;
+}
+
+#contact{
+    background-color: #ffffff;
+}
+.bg{
+    background-color: #222831 ;
+    color: ho;
+}
+
+.navbar {
+    width: 100%;
+}
+
+.btn-custom1 {
+    background-color: #222831;
+    color: #e2edff;
+}
+
+#Skill {
+    min-height: 600px;
+    width: 100%;
+    color: honeydew;
+}
+
+#Skill img {
+    width: 12%;
+    margin: 10px;
+}
+
+#Skill .card {
+    background-color: 414558;
+    height: 360px;
+
+}
+
+#skill .card:hover {
+    background-color: #EFBC9B;
+}
+.skill-content {
+    margin-top: 65px;
+}
+
+#sertificat {
+    margin-top: -170px;
+    padding: 270px;
+    padding-bottom: 80px;
+    background-color: #e2edff;
+}
+
+#sertificat p,a {
+    color: #222831 ;
+}
+
+#sertificat img {
+    width: 49%;
+    padding: 10px;
+}
